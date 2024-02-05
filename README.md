@@ -27,7 +27,40 @@
 ## ⚡ Technologies I love and use
   
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img aling="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
-  <img aling="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
+   
+  <img aling="center" alt="java" height="55" width="95" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+
+  <img aling="center" alt="spring" height="55" width="95" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
+
+   <br/>
+
+  <img aling="center" alt="postgresql" height="55" width="125" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+  
+  <img aling="center" alt="mysql" height="55" width="105" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+
+  <img aling="center" alt="sqlserver" height="55" width="95" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">  
+  
+  <br/>
+
+  <img aling="center" alt="angular" height="55" width="95" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">  <br/>
+
+  <img aling="center" alt="git" height="55" width="85" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
+
+  <img aling="center" alt="swagger" height="55" width="55" src="https://vectorwiki.com/images/v21Kn__swaggerhub.svg"> 
+
+  <img aling="center" alt="postman" height="55" width="55" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
+
+  <br/>
+
+  <img aling="center" alt="docker" height="55" width="55" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"> 
+
+   
+
+ 
+
+  
+
+
+    
+ 
   
