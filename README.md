@@ -1,11 +1,12 @@
 ### Hi there, I'm Felipe, welcome to my GitHub 👋
 
 <hr />
-  <a href="mailto:hdanielmm@gmail.com">
-    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <a href="mailto:felipe.lopez@uptc.edu.co">
+    <img align="left" width="120px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" />
   </a>
-  
+
   <br/>
+<br/>
   
 ### About me
   
