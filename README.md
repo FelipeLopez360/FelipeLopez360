@@ -10,7 +10,7 @@
   
 ### About me
   
-🔭 I’m currently working on Stefanini Group with Spring Boot and Angular <br/><br/>
+🔭 I’m currently working with Spring Boot and Angular <br/><br/>
 🌱 I’m currently learning how to become a fullstack developer with Angular, Java and Springboot <br/><br/>
 👯 I’m looking to collaborate on projects with Angular and Java <br/><br/>
 ⚡ My purpose is to become an excelent fullstack developer using Angular and Java <br/><br/>
