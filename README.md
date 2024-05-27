@@ -3,7 +3,7 @@
 
 
 <hr />
-  <a href="mailto:felipe.lopez@uptc.edu.co">
+  <a href="mailto:dev.felipe.lopez@gmail.com">
     <img align="left" width="120px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" />
   </a>
 
