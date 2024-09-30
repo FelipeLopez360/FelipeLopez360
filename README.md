@@ -3,42 +3,59 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
     Hey! Nice to see you.<br/><br/>
     👋 I'm Felipe, welcome to my GitHub 👋 <br/><br/>
-    <h3 align="center">Backend developer <img src="https://img.icons8.com/?size=100&id=N8GN5w7Vt8qp&format=png&color=000000" width="25"/> Bogota, Colombia </h3>
+    <h3 align="center">Backend developer <img src="https://img.icons8.com/?size=100&id=N8GN5w7Vt8qp&format=png&color=000000" width="25"/> Colombia </h3>
   </h1>
 </div>
 
 <h3>Things I code with</h3>
 <p>
+<img alt="Java" src="https://img.shields.io/badge/-Java-E8E8E8?style=flat-square&logo=java&logoColor=black" />
 <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 <img alt="Springboot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img alt="Springsecurity" src="https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img alt="hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
 <img alt="apachemaven" src="https://img.shields.io/badge/-Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
 <img alt="junit5" src="https://img.shields.io/badge/-Junit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+<img alt="jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 <img alt="postgres" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> 
 <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> 
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="githubpages" src="https://img.shields.io/badge/-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" />
+<img alt="dependabot" src="https://img.shields.io/badge/-Dependabot-025E8C?style=flat-square&logo=dependabot&logoColor=white" />
+<img alt="azure" src="https://img.shields.io/badge/-Azure-0052CC?style=flat-square&logo=azure&logoColor=white" />
+<img alt="devops" src="https://img.shields.io/badge/-DevOps-0052CC?style=flat-square&logo=azure&logoColor=white" />
+<img alt="bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+<img alt="jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img alt="keycloak" src="https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
+<img alt="sonarlint" src="https://img.shields.io/badge/-Sonarlint-CB2029?style=flat-square&logo=sonarlint&logoColor=white" />
+<img alt="sonarqube" src="https://img.shields.io/badge/-Sonarqube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+<img alt="yaml" src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+<img alt="nginx" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
 <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="warp" src="https://img.shields.io/badge/-Warp-01A4FF?style=flat-square&logo=warp&logoColor=white" />
 <img alt="macos" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
 <img alt="sourcetree" src="https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white" />
+<img alt="gitkraken" src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white" />
 <img alt="postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img alt="swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
 <img alt="natsdotio" src="https://img.shields.io/badge/-Nats.io-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" />
 <img alt="rabbitmq" src="https://img.shields.io/badge/-Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 <img alt="apachekafka" src="https://img.shields.io/badge/-Apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img alt="sonarlint" src="https://img.shields.io/badge/-Sonarlint-CB2029?style=flat-square&logo=sonarlint&logoColor=white" />
-<img alt="yaml" src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
 <img alt="githubcopilot" src="https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
 <img alt="openai" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="intellijidea" src="https://img.shields.io/badge/-Intellij_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+<img alt="dbeaver" src="https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" />
+
 
 </p>
 
